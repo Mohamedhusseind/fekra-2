@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+.containerc
+{
+    text-align: left;
+    padding-left: 50px;
+    font-family: 'Cairo',  sans-serif;
+}
+.containerc .title
+{
+    font-size: 35px;
+    text-align: left;
+    color: #28425d;
+    font-weight: bold; 
+}
+.containerc p
+{
+    color: #000000ab;
+    font-size: 20px;
+    
+}
+.tabs
+{
+     border-bottom: 1px solid ;
+    border-bottom-color: #00000069;
+}
+.tabs button
+{
+    
+    font-family: 'Cairo',  sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    width: 15%;
+    height: 40px;
+    border: none;
+    border-style: hidden;
+    background-color: white;
+    cursor: pointer;
+    color: #28425d;
+   
+}
+.tabs button:hover
+{
+    color: #ff5722 ;
+    border-bottom-color:black;
+}
+.tab_text
+{
+    
+    margin-left: 50px;
+    font-family: 'Cairo',  sans-serif;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.tab_text img
+{
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    cursor: pointer;
+}
+.clear
+{
+    clear: both;
+}
+.h2
+{
+    color: #28425d;
+}
+.row2
+{
+    padding-top: 20px;   
+    padding-left: 60px;
+    margin-right: 50px;
+    float: left;
+}
+.speaker
+{
+    padding: 150px;
+}
+.register .col .regist
+{
+    float: left;
+    padding-bottom: 30px;
+}
+.register .col
+{
+    padding: 30px;
+}
+.btn
+{
+    font-size: 30px;
+    border-radius: 15px;
+}

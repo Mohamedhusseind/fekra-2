@@ -1,0 +1,38 @@
+@media(max-width:800px)
+{
+    .containerc
+{
+    text-align: center;
+    padding-left: 25px;
+}
+    .containerc p
+    {
+        font-size: 20px;
+    }
+    .tabs button
+{
+    font-size: 10px;
+     border-bottom: 1px solid ;
+}
+    .tab_text
+{
+    
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+    .tab_text img
+{
+   
+    width:500px;
+    height: 200px;
+    border-radius: 20px;
+}
+    .tab_text .h2,.tab_text .span
+{
+    text-align: center;
+   width: 100%;
+    
+}
+    
+}
